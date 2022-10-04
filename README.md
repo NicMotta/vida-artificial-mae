@@ -10,4 +10,4 @@ Se reseta haciendo click.
 
 [Demo online](https://nicmotta.github.io/vida-artificial-mae)
 
-![video-test](https://youtu.be/HXkUxsEhwqg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HXkUxsEhwqg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
