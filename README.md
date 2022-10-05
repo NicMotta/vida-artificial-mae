@@ -1,7 +1,7 @@
 # Vida Artificial
 ## MAE - UNTREF - 2022
 
-### Nic Motta - p5.js + ml5
+### Nic Motta - p5.js + ml5 (Facemesh)
 
 Caminantes + red neuronal de detección de rostro.
 
